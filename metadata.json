@@ -1,0 +1,8 @@
+{
+  "name": "웹사이트 접근성 및 성능 점검 도구 - 관리형 에이전트",
+  "description": "Gemini 매니지드 에이전트(Gemini Managed Agent)를 활용한 Lighthouse 및 Light 웹 애플리케이션 코드 감사.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
